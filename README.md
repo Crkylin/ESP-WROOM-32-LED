@@ -1,4 +1,3 @@
-# ESP-WROOM-32-LED闪烁
-# 在下载程序时应该将GPIO0与GND短接
-# 程序下载完成后，将GPIO0的短接线取下，手动RST复位
-# 即可看到LED闪烁
+# 使用Arduino开发ESP-WROOM-32，实现LED闪烁
+将电脑与ESP-WROOM-32连接后，将Arduino配置为正确的选项
+点击上传程序后，单击BOOT按键，即可实现程序烧录
